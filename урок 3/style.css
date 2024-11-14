@@ -1,0 +1,20 @@
+.box {
+   background-color: rgb(27, 20, 236);
+    height: 100px;
+    width: 100px;
+}
+
+.block {
+    background-color: rgb(255, 0, 0);
+    height: 550px;
+    width: 550px;
+    display: inline-flex;
+    justify-content: flex-end;
+
+
+
+
+
+}
+
+

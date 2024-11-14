@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+}
+
+
+nav {
+    background-color: black;
+
+    height: 70px;
+    display: flex;
+    
+    padding-top: 40px;
+}
+
+h1 {
+    color: white;
+}
+
+a {
+    color: white;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+
+}
+.nav-row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-links {
+    column-gap: 30px;
+}
+.bg-page {
+    height: 600px;
+    background-image: url(https://i.pinimg.com/originals/63/d1/6e/63d16e821e1a955e87bc482844b9f9f2.jpg);
+}
